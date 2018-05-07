@@ -1,3 +1,0 @@
-aja
-aja
-aja
