@@ -1,2 +1,3 @@
 # HPSS_API_RS
-Java and C code to test HPSS API performance numbers
+A file transfer application written in Java-Swing to provide a WinSCP like GUI.
+File transfer operations are performed by invoking HPSS library functions.
