@@ -48,7 +48,7 @@ char *program;
 int debug = 0;
 int verbose = 0;
 int replace = 0;
-int buffersize = 1024 * 1024;
+int buffersize = 4096 * 4096;
 
 /****************************************************************************/
 
